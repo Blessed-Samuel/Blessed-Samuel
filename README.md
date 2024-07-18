@@ -17,7 +17,7 @@
 - **Scholarly:** Design Community Manager
 - **NimbleDev:** Front-end Developer & UI/UX Designer
 
-### Hobbies:
+### 🤽‍♂️Hobbies:
 - Development, Opensource, Reading, Swimming...
 
 ### 🔗Connect With Me On:
