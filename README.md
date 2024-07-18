@@ -1,5 +1,5 @@
 # Hi 👋, I’m Blessed-Samuel
-### 💻A Coding nerd and a Life long learner. Aspiring Full-stack Developer.
+### 💻 A Coding nerd and a Life long learner. Aspiring Full-stack Developer.
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb336f58175b3d3574a6e2b4814abf34f2e8d23c726598e00e296a27aada0fdc/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6d616e2d636f6d70757465722d636f64696e672d6e6165366d65633337386c73673169332e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/cb336f58175b3d3574a6e2b4814abf34f2e8d23c726598e00e296a27aada0fdc/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6d616e2d636f6d70757465722d636f64696e672d6e6165366d65633337386c73673169332e676966" data-canonical-src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" style="width: 35%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 - 👀 I’m interested in Learning new programming languages and collaborate on projects to effectively solve problems.
@@ -13,18 +13,18 @@
 - Design and develop scalable web applications.
 - Lead and mentor young and aspiring developers to deliver high-quality software solutions.
 
-### 💼Professional Experience:
+### 💼 Professional Experience:
 - **StarLab Academy:** Front-end Intern
 - **Scholarly:** Design Community Manager
 - **NimbleDev:** Front-end Developer & UI/UX Designer
 
-### 🤽‍♂️Hobbies:
+### 🤽‍♂️ Hobbies:
 - Development, Opensource, Reading, Swimming...
 
-### 🔗Connect With Me On:
+### 🔗 Connect With Me On:
 [<img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" width="5%" alt="LinkedIn">](https://www.linkedin.com/in/blessedsamuel/)&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" width="5%" alt="Instagram">](https://www.instagram.com/blessed_samuel22/)[<img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" width="5%" alt="phone">](https://wa.me/2347018110869) [<img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" width="5%" alt="Instagram">](https://discord.com/channels/@me)
 
-### 👷Competencies:
+### 👷 Competencies:
 <markdown-accessiblity-table>
   <table>
     <thead>
