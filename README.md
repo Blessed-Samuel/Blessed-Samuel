@@ -20,6 +20,7 @@
 
 # 🤽‍♂️ Hobbies:
 - Development, Opensource, Reading, Swimming...
+- All my project are available at: https://samfolio-nine.vercel.app
 
 # 🔗 Connect With Me On:
 <span border-bottom="1px solid; "><span/>
@@ -141,7 +142,7 @@
 </markdown-accessiblity-table>
 
 # GitHub Stats:
-<img src="https://github.com/Blessed-Samuel/GitStats/raw/master/GitHub-Stats.png" alt="GitStats" style="width: 20%;">
+<img src="https://github.com/Blessed-Samuel/GitStats/raw/master/GitHub-Stats.png" alt="GitStats" style="width: 30%;">
 
 <div class="markdown-heading" dir="auto">
   <h6 class="heading-element" dir="auto" style="font-family: 'sora', sans-serif;">
