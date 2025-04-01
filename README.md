@@ -20,7 +20,6 @@
 - Lead and mentor young and aspiring developers to deliver high-quality software solutions.
 
 # 💼 Professional Experience:
-- **Scholarly:** Community Manager
 - **NimbleDev:** Front-end Developer & UI/UX Designer
 - **All my projects are available at:** https://samfolio-nine.vercel.app
 
