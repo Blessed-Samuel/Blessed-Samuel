@@ -24,7 +24,7 @@
 - **All my projects are available at:** https://samfolio-nine.vercel.app
 
 # 🤽‍♂️ Hobbies:
-- Development, Opensource, Reading, Swimming...
+- Coding, Opensource, Reading, Swimming, Leadership...
 
 # 🔗 Connect With Me On:
 <span border-bottom="1px solid; "><span/>
