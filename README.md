@@ -1,26 +1,31 @@
 # Hi 👋, I’m Blessed-Samuel
-### 💻 A Coding nerd and a Life long learner. Aspiring Full-stack Developer.
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb336f58175b3d3574a6e2b4814abf34f2e8d23c726598e00e296a27aada0fdc/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6d616e2d636f6d70757465722d636f64696e672d6e6165366d65633337386c73673169332e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/cb336f58175b3d3574a6e2b4814abf34f2e8d23c726598e00e296a27aada0fdc/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d6d616e2d636f6d70757465722d636f64696e672d6e6165366d65633337386c73673169332e676966" data-canonical-src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" style="width: 35%; display: inline-block;" data-target="animated-image.originalImage"></a>
+💻 A Coding nerd, **Junior Front-end Dev** and a Life long learner. **Aspiring Full-stack Developer**.
 
-- 👀 I’m interested in Learning new programming languages and collaborate on projects to effectively solve problems.
-- 🌱 I’m currently learning ReactJs and NodeJs
-- 💞️ I’m seeking opportunities to collaborate on front-end projects and offer solutions to global challenges.
-- 📧 How to reach me samuelalisigwe22@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm curious, Always ready to adapt, I'm keen on learning new programming languages and enjoy collaborating on projects to tackle problems more effectively.
+<p align="center">
+    <a href="https://gifdb.com/gif/couple-laptop-system-coding-n4ikawbchrh2w41k.html?embed=true" target="_blank">
+        <img src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.gif" width="70%" alt="Coding">
+    </a>
+</p>
+
+### 👋 About Me
+- 👀 I’m interested in learning new programming languages and collaborating on projects to solve problems effectively.
+- 🌱 I’m currently learning **ReactJs** and **NodeJs**.
+- 💞️ I’m looking for opportunities to contribute to **front-end projects** and solve **global challenges**.
+- 📧 **How to reach me:** [samuelalisigwe22@gmail.com](mailto:samuelalisigwe22@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I'm curious, always ready to adapt, and passionate about **learning new programming languages** while **collaborating on projects** to solve real-world problems.
 
 # ✨ What I Do:
 - Design and develop scalable web applications.
 - Lead and mentor young and aspiring developers to deliver high-quality software solutions.
 
 # 💼 Professional Experience:
-- **StarLab Academy:** Front-end Intern
-- **Scholarly:** Design Community Manager
+- **Scholarly:** Community Manager
 - **NimbleDev:** Front-end Developer & UI/UX Designer
+- **All my projects are available at:** https://samfolio-nine.vercel.app
 
 # 🤽‍♂️ Hobbies:
 - Development, Opensource, Reading, Swimming...
-- All my project are available at: https://samfolio-nine.vercel.app
 
 # 🔗 Connect With Me On:
 <span border-bottom="1px solid; "><span/>
